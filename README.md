@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Docs/Conway.GIF">
-</p>
+![text](https://github.com/AdamBeziou/Conway/blob/master/Docs/Conway.gif "Game Demo")
 
 # Conway
 An implementation of Conway's Game of Life in C++ and SFML.
